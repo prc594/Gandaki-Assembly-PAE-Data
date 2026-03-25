@@ -1,13 +1,13 @@
 # Gandaki Assembly PAE Dataset (Draft Version)
 
-> ⚠️ **Warning:** This is an **incorrect or draft version** of the dataset.  
+>  **Warning:** This is an **draft version** of the dataset.  
 > Please do not use it for official analysis. Contact **administration@pokharacentre.org** for the correct version.
 
 This repository contains a **cluster-wise PAE dataset** for the **Gandaki Province Assembly** (T2S1–S6), prepared by the **Pokhara Research Centre**.
 
 ## Contents
 
-- `data/` – CSV and Excel files containing the dataset.
+- `data/` – DTA files containing the dataset.
 - `docs/` – PDFs of code sheets, results, and related documents.
 - `README.md` – This file.
 
