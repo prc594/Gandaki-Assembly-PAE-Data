@@ -1,26 +1,30 @@
-# Gandaki Assembly PAE Dataset
+# Gandaki Assembly PAE Dataset (Draft Version)
 
-This repository contains the **cluster-wise PAE dataset** for the **Gandaki Province Assembly** (T2S1–S6), prepared and maintained by the **Pokhara Research Centre**.
+> ⚠️ **Warning:** This is an **incorrect or draft version** of the dataset.  
+> Please do not use it for official analysis. Contact **administration@pokharacentre.org** for the correct version.
+
+This repository contains a **cluster-wise PAE dataset** for the **Gandaki Province Assembly** (T2S1–S6), prepared by the **Pokhara Research Centre**.
 
 ## Contents
 
-- `data/` – DTA files containing the dataset.
+- `data/` – CSV and Excel files containing the dataset.
 - `docs/` – PDFs of code sheets, results, and related documents.
 - `README.md` – This file.
 
 ## Description
 
-The dataset provides detailed information on assembly proceedings in Gandaki Province, including:
+The dataset provides a **cluster-wise breakdown** of assembly proceedings in Gandaki Province, including:
 
-- Cluster-wise breakdown of sessions and motions
-- Code sheets for each session
-- Statistical results and analysis
+- Sessions
+- Actors (members participating)
+- Timecodes of actions/events
+- Legislative details, motions, and code sheets
 
-This dataset can be used for research, analysis, and visualization of parliamentary activity.
+This dataset can be used for research **with permission**; contact **administration@pokharacentre.org** for approval.
 
-## Source
+## Source / Citation
 
-Pokhara Research Centre – Gandaki Province Assembly (T2S1–S6)
+Jai Venaik, Pokhara Research Centre (2026). *Gandaki Assembly PAE Dataset* – Gandaki Province Assembly (T2S1–S6).
 
 ## License / Copyright
 
@@ -28,4 +32,4 @@ Pokhara Research Centre – Gandaki Province Assembly (T2S1–S6)
 
 ---
 
-**Note:** This dataset is intended for research and educational purposes. Proper citation to the Pokhara Research Centre is requested when used in publications or reports.
+**Note:** Proper citation is requested when used in publications or reports. Use this version only for reference; obtain the official dataset for accurate research.
