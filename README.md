@@ -19,6 +19,7 @@ The dataset provides a **cluster-wise breakdown** of assembly proceedings in Gan
 - Actors (members participating)
 - Timecodes of actions/events
 - Legislative details, motions, and code sheets
+- **Statistical results**
 
 This dataset can be used for research **with permission**; contact **administration@pokharacentre.org** for approval.
 
