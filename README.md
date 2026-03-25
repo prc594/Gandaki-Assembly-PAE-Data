@@ -22,9 +22,9 @@ The dataset provides a **cluster-wise breakdown** of assembly proceedings in Gan
 
 This dataset can be used for research **with permission**; contact **administration@pokharacentre.org** for approval.
 
-## Source / Citation
+## Citation
 
-Jai Venaik, Pokhara Research Centre (2026). *Gandaki Assembly PAE Dataset* – Gandaki Province Assembly (T2S1–S6).
+Jai Venaik
 
 ## License / Copyright
 
